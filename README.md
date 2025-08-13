@@ -15,5 +15,5 @@ Portfólio pessoal moderno desenvolvido com Next.js, TypeScript e Tailwind CSS. 
 Desenvolvido por **Gustavo Arnoni**
 
 - 📧 **Email**: [gustavoarnoni4@gmail.com](mailto:gustavoarnoni4@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/gustavo-dos-santos-arnoni-a5ba06220/]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gustavo-dos-santos-arnoni-a5ba06220/))
+- 💼 **LinkedIn**: [linkedin.com/in/gustavo-dos-santos-arnoni-a5ba06220/](https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gustavo-dos-santos-arnoni-a5ba06220/))
 - 🐱 **GitHub**: [github.com/gustavoarnoni](https://github.com/gustavoarnoni)
