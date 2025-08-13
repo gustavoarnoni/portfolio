@@ -10,9 +10,9 @@ const dmSans = DM_Sans({
 })
 
 export const metadata: Metadata = {
-  title: "Frontend Developer Portfolio",
-  description: "Modern portfolio showcasing frontend development skills and projects",
-  generator: "v0.app",
+  title: "Gustavo Arnoni | Engenheiro de Software Full-Stack",
+  description: "Engenheiro de Software especializado em desenvolvimento Full-Stack, cibersegurança e inteligência artificial. Criando soluções escaláveis e seguras com tecnologias modernas.",
+  robots: "index, follow"
 }
 
 export default function RootLayout({
